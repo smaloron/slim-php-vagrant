@@ -1,0 +1,7 @@
+{
+    "name": "administrateur/modern-php",
+    "description": "Un premier projet moderne",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
