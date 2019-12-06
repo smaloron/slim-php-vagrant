@@ -6,7 +6,8 @@
         "slim/slim": "^4.3",
         "slim/psr7": "^0.6.0",
         "ext-pdo": "*",
-        "php-di/php-di": "^6.0"
+        "php-di/php-di": "^6.0",
+        "gabordemooij/redbean": "^5.4"
     },
 
     "autoload": {
