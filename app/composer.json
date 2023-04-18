@@ -4,7 +4,7 @@
     "require": {
         "fzaninotto/faker": "^1.9",
         "slim/slim": "^4.3",
-        "slim/psr7": "^0.6.0",
+        "slim/psr7": "^1.6.1",
         "ext-pdo": "*",
         "php-di/php-di": "^6.0",
         "gabordemooij/redbean": "^5.4"
